@@ -3,13 +3,13 @@ Welcome to the Pyton-Exercises repository! Here you'll find a collection of Pyth
 
 ## Table of Contents
 
--Installation
+- Installation
 
--Usage
+- Usage
 
--Contributing
+- Contributing
 
--Contact
+- Contact
 
 ## Installation
 To run these exercises, you'll need:
