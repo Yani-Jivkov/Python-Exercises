@@ -22,17 +22,17 @@ To run these exercises, you'll need:
 
 ## Usage
 
-1.Clone this repository to your local machine.
+1. Clone this repository to your local machine.
 
-2.Open your favorite code editor. If you don't have one, may I suggest PyCharm?
+2. Open your favorite code editor. If you don't have one, may I suggest PyCharm?
 
-3.Browse through the exercises and pick one that piques your interest.
+3. Browse through the exercises and pick one that piques your interest.
 
-4.Attempt to solve the exercise. Bonus points for creative solutions!
+4. Attempt to solve the exercise. Bonus points for creative solutions!
 
-5.Scratch your head, curse the Python gods, and finally, Google the solution.
+5. Scratch your head, curse the Python gods, and finally, Google the solution.
 
-6.Repeat steps 3-5 until you either master Python or decide to become a goat farmer in the Alps.
+6. Repeat steps 3-5 until you either master Python or decide to become a goat farmer in the Alps.
 
 ## Contributing
 Found a bug in my exercises? Great! Open an issue and let's argue about whether it's a bug or a feature. Want to contribute your own exercises? Fantastic! Just remember, if your code doesn't make someone question their life choices, you're doing it wrong.
