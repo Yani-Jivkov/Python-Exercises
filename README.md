@@ -11,6 +11,8 @@ Welcome to the Pyton-Exercises repository! Here you'll find a collection of Pyth
 
 -Contact
 
+![269-2691398_snake-charmer-clipart](https://github.com/Yani-Jivkov/Python-Exercises/assets/114335628/1f411aa2-d707-4bdc-9dda-1de610228933)
+
 ## Installation
 To run these exercises, you'll need:
 
